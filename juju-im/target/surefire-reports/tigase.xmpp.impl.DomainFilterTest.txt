@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tigase.xmpp.impl.DomainFilterTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.214 sec - in tigase.xmpp.impl.DomainFilterTest
