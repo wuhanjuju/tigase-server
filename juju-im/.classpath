@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="jars/derby.jar"/>
+	<classpathentry kind="lib" path="jars/derbytools.jar"/>
+	<classpathentry kind="lib" path="jars/groovy-all.jar"/>
+	<classpathentry kind="lib" path="jars/jcl-over-slf4j-1.5.6.jar"/>
+	<classpathentry kind="lib" path="jars/jul-to-slf4j-1.7.5.jar"/>
+	<classpathentry kind="lib" path="jars/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="jars/mysql-connector-java.jar"/>
+	<classpathentry kind="lib" path="jars/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="jars/postgresql.jar"/>
+	<classpathentry kind="lib" path="jars/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="jars/tigase-utils-3.4.4.jar"/>
+	<classpathentry kind="lib" path="jars/tigase-xmltools-3.4.5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
